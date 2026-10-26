@@ -4,3 +4,4 @@ import random
 wordbank = ['apple', 'banana', 'computer', 'python', 'coder'] 
 answer = random.choice(wordbank) 
 guessed_letters = []
+max_wrong = 6
